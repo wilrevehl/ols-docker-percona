@@ -17,7 +17,7 @@ Feel free to check [Docker hub Tag page](https://hub.docker.com/repository/docke
 ## Installation
 Clone this repository or copy the files from this repository into a new folder:
 ```
-git clone https://github.com/litespeedtech/ols-docker-env.git
+git clone https://github.com/wilrevehl/ols-docker-percona.git
 ```
 Open a terminal, `cd` to the folder in which `docker compose.yml` is saved, and run:
 ```
